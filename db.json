@@ -54,41 +54,5 @@
             "description": "Lavar todo o chassi do ativo.",
             "time": "2 horas"
           }
-    ],
-    "materials": [
-        {
-            "id": 1,
-            "name": "Pneu",
-            "total": 8
-        },
-        {
-            "id": 1,
-            "name": "Rolamento",
-            "total": 15
-        },
-        {
-            "id": 1,
-            "name": "Cabo de Freio",
-            "total": 5
-        },
-        {
-            "id": 1,
-            "name": "Luz de Freio",
-            "total": 3
-        }
-    ],
-    "workers": [
-        {
-            "id": 1,
-            "name": "Jorge Santana"
-        },
-        {
-            "id": 2,
-            "name": "Guilherme Santana"
-        },
-        {
-            "id": 3,
-            "name": "Alisson Costa Pacheco"
-        }
     ]
 }
