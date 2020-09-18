@@ -3,8 +3,7 @@
         {"id": 1 , "name": "TRT1231"},
         {"id": 2 , "name": "TRT141C"},
         {"id": 3 , "name": "TRT34AD"},
-        {"id": 4 , "name": "TRT3422"},
-        {"id": 5 , "name": "TRT67AF"}
+        {"id": 4 , "name": "TRT3422"}
     ],
     "regionals": [
         {"id": 1 , "name": "Tupiniquim"},
