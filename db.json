@@ -1,0 +1,95 @@
+{
+    "actives": [
+        {"id": 1 , "name": "TRT1231"},
+        {"id": 2 , "name": "TRT141C"},
+        {"id": 3 , "name": "TRT34AD"},
+        {"id": 4 , "name": "TRT3422"},
+        {"id": 5 , "name": "TRT67AF"}
+    ],
+    "regionals": [
+        {"id": 1 , "name": "Tupiniquim"},
+        {"id": 2 , "name": "Aipirim"},
+        {"id": 3 , "name": "Falcão"},
+        {"id": 4 , "name": "Botucatú"}
+    ],
+    "checklist": [
+        "Foi checada a calibração dos pneus?",
+        "Os amortecedores estão em boas condições?",
+        "Verificou o estado da pintura?"
+    ],
+    "notifications": [
+        {
+            "title": "Atenção", 
+            "text": "A entrega da cesta básica para quem for do 2° turno será em frente a portaria.",
+            "sender": "Recursos Humanos"
+        },
+        {
+            "title": "Obrigado!", 
+            "text": "A Bayer agradece a vocês pelo empenho nessa Safra que bateu recordes de produção.",
+            "sender": "Bayer Brasil"
+        }
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "title": "Trocar pneu furado",
+            "date": "11/09/2020",
+            "priority": "Emergencial",
+            "description": "Efetuar a troca dos pneus dianteiros e traseiros do ativo, incluindo o do estepe.",
+            "time": "5 horas"
+          },
+          {
+            "id": 2,
+            "title": "Balancear pneus novos",
+            "date": "11/09/2020",
+            "priority": "Não Programada",
+            "description": "Efetuar balanceamento dos novos pneus após a troca.",
+            "time": "2 horas"
+          },
+          {
+            "id": 3,
+            "title": "Lavar Lataria do Ativo",
+            "date": "11/09/2020",
+            "priority": "Preventiva",
+            "status": "Pausado",
+            "description": "Lavar todo o chassi do ativo.",
+            "time": "2 horas"
+          }
+    ],
+    "materials": [
+        {
+            "id": 1,
+            "name": "Pneu",
+            "total": 8
+        },
+        {
+            "id": 1,
+            "name": "Rolamento",
+            "total": 15
+        },
+        {
+            "id": 1,
+            "name": "Cabo de Freio",
+            "total": 5
+        },
+        {
+            "id": 1,
+            "name": "Luz de Freio",
+            "total": 3
+        }
+    ],
+    "workers": [
+        {
+            "id": 1,
+            "name": "Jorge Santana"
+        },
+        {
+            "id": 2,
+            "name": "Guilherme Santana"
+        },
+        {
+            "id": 3,
+            "name": "Alisson Costa Pacheco"
+        }
+    ]
+}
