@@ -20,15 +20,16 @@
         {
             "id": 1,
             "title": "Trocar pneu furado",
-            "date": "11/09/2020",
+            "date": "17/10/2020",
             "priority": "Emergencial",
+            "status": "Indeterminado",
             "description": "Efetuar a troca dos pneus dianteiros e traseiros do ativo, incluindo o do estepe.",
             "time": "5 horas"
           },
           {
             "id": 2,
             "title": "Balancear pneus novos",
-            "date": "11/09/2020",
+            "date": "17/10/2020",
             "priority": "Não Programada",
             "description": "Efetuar balanceamento dos novos pneus após a troca.",
             "time": "2 horas"
@@ -36,11 +37,19 @@
           {
             "id": 3,
             "title": "Lavar Lataria do Ativo",
-            "date": "11/09/2020",
+            "date": "19/10/2020",
             "priority": "Preventiva",
             "status": "Pausado",
             "description": "Lavar todo o chassi do ativo.",
             "time": "2 horas"
+          },
+          {
+            "id": 4,
+            "title": "Trocar volante",
+            "date": "24/10/2020",
+            "priority": "Preditiva",
+            "description": "Trocar volante do ativo.",
+            "time": "10 horas"
           }
     ],
     "materials": [
